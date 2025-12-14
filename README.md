@@ -38,7 +38,7 @@ The goal was to move beyond tutorial-style dashboards and focus on **practical a
 - City Type  
 - Shop Size  
 - Shop Tier  
-![Swiggy Dashboard](path/to/your/swiggy-dashboard.jpeg)
+<img width="1736" height="976" alt="image" src="https://github.com/user-attachments/assets/0156b92c-1ab0-44da-97a0-cb6808f79e27" />
 ---
 
 ## 🔴 Zomato Food Delivery Dashboard – Customer & Order Insights
@@ -72,8 +72,7 @@ The goal was to move beyond tutorial-style dashboards and focus on **practical a
 - Data modeling  
 - Interactive dashboard design  
 - Business-focused analysis  
-![Zomato Dashboard](path/to/your/zomato-dashboard.jpeg)
-
+<img width="2066" height="1166" alt="image" src="https://github.com/user-attachments/assets/46af1249-6204-4cc8-af61-299c0b630d63" />
 ---
 
 ## 🎯 Why I Built This
